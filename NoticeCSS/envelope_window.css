@@ -40,7 +40,7 @@ div.address {
     border 0px;
     padding 0px;
     margin 0px;
-    top: 2.00in;
+    top: -2.00in;
     left: 0.800in;
     width: 4.5in;
     height: 1.125in;
@@ -60,7 +60,7 @@ div.return_address {
 /* Content will appear in the bottom 2/3 of a letter size page when printed. */
 div.content {
     position: relative;
-    top: 10.000in;
+    top: 7.000in;
     left: 1.000in;
 }
 
