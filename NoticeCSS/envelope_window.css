@@ -1,4 +1,4 @@
-pre { font-family: "Arial Black", sans-serif; }
+pre { font-family: "Arial", sans-serif; }
 pre { font-size: 10pt; }
 
 .message {
@@ -41,7 +41,7 @@ div.address {
     padding 0px;
     margin 0px;
     top: 2.00in;
-    left: 1.000in;
+    left: 0.800in;
     width: 4.5in;
     height: 1.125in;
 }
