@@ -62,6 +62,7 @@ div.content {
     position: relative;
     top: 1.750in;
     left: 0.80in;
+    right: 0.80in;
 }
 
 @media screen {
