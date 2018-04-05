@@ -60,8 +60,8 @@ div.return_address {
 /* Content will appear in the bottom 2/3 of a letter size page when printed. */
 div.content {
     position: relative;
-    top: -2.000in;
-    left: 0.500in;
+    top: 2.000in;
+    left: 0.800in;
 }
 
 @media screen {
