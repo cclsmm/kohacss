@@ -60,7 +60,7 @@ div.return_address {
 /* Content will appear in the bottom 2/3 of a letter size page when printed. */
 div.content {
     position: relative;
-    top: 5.000in;
+    top: 10.000in;
     left: 1.000in;
 }
 
